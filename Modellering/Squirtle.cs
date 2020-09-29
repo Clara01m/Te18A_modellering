@@ -9,6 +9,6 @@ namespace Modellering
         public int hp3 = 24; 
         public string name3; 
         public int attack3 = 6;
-}
     }
 }
+

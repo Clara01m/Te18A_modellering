@@ -10,6 +10,5 @@ namespace Modellering
         public int hp2 = 27; 
         public string name2; 
         public int attack2 = 5;
-
     }
 }
